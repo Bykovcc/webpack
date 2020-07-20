@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    padding-top: 2rem;
+    padding-top: 5rem;
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -18,7 +18,7 @@ h1 {
 .logo {
     background-image: url("../assets/webpack-logo.png");
     background-size: cover;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin: 0 auto;
 }
